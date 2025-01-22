@@ -446,8 +446,9 @@ span {
   .services {
     padding: 7rem;
   }
-  .testimonial .warpper {
+  .testimonial .wrapper {
     grid-template-columns: repeat(1, 1fr);
+    padding: 2rem 3%;
   }
   .contact form .input-box input {
     width: 100%;
